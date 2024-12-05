@@ -6,6 +6,7 @@
 
 
 ## Setup:
+- `clone the repository`
 - `update MongoDB Atlas URI in .env`
 - `update PORT in .env`
 - `update JWT_SECRET in .env`
